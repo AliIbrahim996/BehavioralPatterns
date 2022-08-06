@@ -1,8 +1,8 @@
 #ifndef OBSERVER_SUBSCRIBER_H
 #define OBSERVER_SUBSCRIBER_H
 
-#include "ISubscriber.h"
-#include "IPublisher.h"
+#include "interfaces/ISubscriber.h"
+#include "interfaces/IPublisher.h"
 
 namespace DesignPatterns
 {
